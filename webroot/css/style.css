@@ -1,0 +1,144 @@
+/**
+ * General elements
+ */
+
+@import url(figure.css);
+
+body {
+  color: #333;
+  font-family: 'Roboto Condensed', sans-serif;
+  background-image: url(../img/bkg.jpg);
+  background-size: 100%, auto;
+  width:100%;
+}
+
+h1 {
+  font-size: 2.2em;
+  font-weight:700;
+  text-align: center;
+  margin:20px 20px;
+  color:#6a2e5e;
+  opacity: 1;
+}
+h2 {
+  font-weight:700;
+  text-align: center;
+  margin:10px 20px;
+  opacity: 1;
+}
+
+p{
+  font-size:1.1rem;
+  font-family: "Vollkorn", serif;
+  margin:10px auto;
+  opacity: 1;
+  max-width: 700px;
+
+}
+
+
+/**
+ * Layout of the main page elements 
+ */
+#wrapper {
+  margin: 20px auto;
+  width: 80%; 
+  background-color:#eee;
+  border-radius: 5px;
+  opacity: 0.85;
+  max-width: 900px;
+}
+
+
+/**
+ * Layout for header
+ */
+#header {
+  width:100%;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.sitetitle {
+  color:#6a2e5e;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 2em;
+  width:100%;
+  text-align: center;
+  margin-top:-50px;
+  font-family: "Pacifico", sans-serif;
+  letter-spacing: 0.001em;
+}
+.siteslogan {
+
+   float: left;
+  margin-left: auto;
+  margin-right: auto;
+  color: #666;
+  width:100%;
+  margin-top:10px;
+  margin-bottom:15px;  
+}
+
+
+/**
+ * Layout for main
+ */
+#main {
+  min-height: 20em;
+  clear: left;
+  width:90%;
+  padding-left:5%;
+  padding-right:5%;
+  border-top:1px dotted #fff;
+  background-color: rgb(250,250,250);
+}
+
+
+/**
+ * Layout for footer
+ */
+#footer {
+  border-top: 1px dotted #fff;
+  padding-top: 22px;
+  padding-bottom:40px;
+  text-align: center;
+}
+
+.sitefooter {
+  color: #666;
+  margin:0 auto;
+}
+
+
+/**
+ * For articles
+ */
+.article1 {
+  width: 700px;
+  border-right: 1px solid #ccc;
+  padding-right: 1em;
+}
+
+.article1 h1,
+.article1 h2 {
+  border-bottom: 1px solid #ccc;
+  text-align: center;
+}
+
+.byline {
+  margin-top: 44px;
+  border-top: 1px dashed #ccc;
+  padding-top: 22px;
+  color: #666;
+}
+
+.byline p {
+  margin-top: 0;
+}
+.text-center{
+  text-align: center!important;
+  display: block;
+}
