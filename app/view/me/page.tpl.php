@@ -9,3 +9,4 @@
 <?php endforeach; ?>
 </ul>
 <?php endif; ?>
+<div class="byline text-center"><?=$byline?></div>
