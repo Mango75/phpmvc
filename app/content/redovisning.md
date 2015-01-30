@@ -18,10 +18,10 @@ Jag är inte speciellt bekant med de mer avancerade begreppen som tas upp i dett
  Jag ser fram emot att lära mig mer hur olika designmönster fungerar samt hur och när man kan ta hjälp av dem. Det kommer bli intressant att arbeta vidare för att praktisera de begrepp som tas upp i litteraturen. Jag kommer gå tillbaka igen och läsa om för att förhoppningsvis bli lite klokare. 
 
 
-**ANAX**
+**Anax-MVC**
 
-Jag fann det svårt att hitta de olika delarna i Anax och hur de hängde ihop. Jag hade specifikt svårt att lista ut när man ändrar i controllern och vilka delar som konfigureras i app-delen. Jag hade lite svårigheter att skapa navigationen men det berodde på att jag hade missat ett par tecken när jag skrev om den array som genererar menyn.
- Intrycket överlag är att ANAX känns splittrat, vilket säkert gör ramverket väldigt anpassnings- och utbyggbart. Jag fick skriva om kod några gånger för att få allt att fungera men när det väl gjorde det kändes det väldigt roligt. 
+Jag fann det svårt att hitta de olika delarna i Anax-MVC och hur de hängde ihop. Jag hade specifikt svårt att lista ut när man ändrar i controllern och vilka delar som konfigureras i app-delen. Jag hade lite svårigheter att skapa navigationen men det berodde på att jag hade missat ett par tecken när jag skrev om den array som genererar menyn.
+ Intrycket överlag är att Anax-MVC känns splittrat, vilket säkert gör ramverket väldigt anpassnings- och utbyggbart. Jag fick skriva om kod några gånger för att få allt att fungera men när det väl gjorde det kändes det väldigt roligt. 
 
 
 
